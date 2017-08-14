@@ -1,0 +1,25 @@
+.landing {
+  text-align: center;
+  background-image: url(/home/david/Documents/moringa-school-project/Anitas-kitchen/img/backgrounds/landing.jpg);
+}
+
+.landing p {
+  color: white;
+}
+
+.happy {
+  padding: 20px;
+  background-color: white;
+}
+
+.party {
+  padding: 20px;
+  background-color: red;
+}
+
+.ontop {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  border: 1px solid red;
+}
