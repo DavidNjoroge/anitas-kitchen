@@ -40,3 +40,18 @@
   padding: 100px;
   background-image: url(/home/david/Documents/moringa-school-project/Anitas-kitchen/img/foodtop/dinner.jpg);
 }
+
+.breakfast {
+  padding: 100px;
+  background-image: url(/home/david/Documents/moringa-school-project/Anitas-kitchen/img/foodtop/breakfast.jpg);
+}
+
+.lunch {
+  padding: 100px;
+  background-image: url(/home/david/Documents/moringa-school-project/Anitas-kitchen/img/foodtop/lunch.jpg);
+}
+
+.supper {
+  padding: 100px;
+  background-image: url(/home/david/Documents/moringa-school-project/Anitas-kitchen/img/foodtop/dinner.jpg);
+}
