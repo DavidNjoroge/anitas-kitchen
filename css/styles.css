@@ -1,22 +1,3 @@
-.landing {
-  text-align: center;
-  background-image: url(/home/david/Documents/moringa-school-project/Anitas-kitchen/img/backgrounds/landing.jpg);
-}
-
-.landing p {
-  color: white;
-}
-
-.happy {
-  padding: 10px;
-  background-color: white;
-}
-
-.party {
-  padding: 20px;
-  background-color: red;
-}
-
 .ontop {
   margin: 2px;
   position: absolute;
@@ -28,30 +9,37 @@
 
 .breakfast {
   padding: 100px;
-  background-image: url(/home/david/Documents/moringa-school-project/Anitas-kitchen/img/foodtop/breakfast.jpg);
+  background-image: url(../img/foodtop/breakfast.jpg);
 }
 
 .lunch {
   padding: 100px;
-  background-image: url(/home/david/Documents/moringa-school-project/Anitas-kitchen/img/foodtop/lunch.jpg);
+  background-image: url(../img/foodtop/lunch.jpg);
 }
 
 .supper {
   padding: 100px;
-  background-image: url(/home/david/Documents/moringa-school-project/Anitas-kitchen/img/foodtop/dinner.jpg);
+  background-image: url(../img/foodtop/dinner.jpg);
 }
 
-.breakfast {
-  padding: 100px;
-  background-image: url(/home/david/Documents/moringa-school-project/Anitas-kitchen/img/foodtop/breakfast.jpg);
+.page-heading {
+  background-image: url(../landing.jpg);
+  text-align: center;
 }
 
-.lunch {
-  padding: 100px;
-  background-image: url(/home/david/Documents/moringa-school-project/Anitas-kitchen/img/foodtop/lunch.jpg);
+.col {
+  padding: 20px;
 }
 
-.supper {
-  padding: 100px;
-  background-image: url(/home/david/Documents/moringa-school-project/Anitas-kitchen/img/foodtop/dinner.jpg);
+.danger {
+  background-color: red;
+}
+
+.test {
+  margin-top: 100px;
+}
+
+.article {
+  font-size: 16px;
+  margin-left: 30px;
 }
