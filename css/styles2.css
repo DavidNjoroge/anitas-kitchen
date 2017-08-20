@@ -57,3 +57,11 @@ body {
 .row{
   background-size: cover;
 }
+.justify-content-center{
+  text-align: center;
+  color: white;
+}
+h2
+{
+  color: white;
+}
