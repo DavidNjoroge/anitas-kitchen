@@ -25,6 +25,7 @@
 .page-heading {
   background-image: url(../landing.jpg);
   text-align: center;
+  height: 100vh;
 }
 
 .col {
