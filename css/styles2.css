@@ -1,11 +1,13 @@
-.containe {
+.first {
+  background-size: cover;
   background-image: url(../assets/backgrounds/landing.jpg);
   text-align: center;
   height: 100vh;
+  width: 100vw;
   background-repeat: no-repeat;
-  padding: 0;
-  margin: 0;
+
 }
+
 .breakfast {
   background-image: url(../img/foodtop/breakfast.jpg);
   height: 100vh;
@@ -23,23 +25,25 @@
   height: 100vh;
   background-repeat: no-repeat;
 }
-body{
-  padding: 0;
-  margin-bottom: 0;
+
+body {
+  display: block;
 }
-.forth{
+
+.forth {
   background-image: url(../assets/backgrounds/foodsBg.jpg);
   height: 100vh;
   background-repeat: no-repeat;
 }
-.sixth{
+
+.sixth {
+  background-size: cover;
   background-image: url(../assets/backgrounds/subscribe.jpg);
-  height: 100vh;
+    height: 100vh;
+    width: 100vw;
 
 }
-.seventh{
+
+.seventh {
   background-color: red;
-  padding: 0;
-  margin: 0;
-  border: 0;
 }
